@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-int main11()
+int main12()
 {
 	int comp1[2][2];
 	int comp2[2][2];
@@ -28,7 +28,7 @@ int main11()
 	{
 		for (int j = 0; j < 2; j++)
 		{
-			sum[i][j] = comp1[i][j] + comp2[i][j];
+			sum[i][j] = comp1[i][j] * comp2[i][j];
 		}
 	}
 	cout << "sum of matrix 1 and 2 is \n";

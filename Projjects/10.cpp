@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-int main11()
+int main10()
 {
 	int
 		number,
