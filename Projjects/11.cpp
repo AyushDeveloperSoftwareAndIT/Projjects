@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-int main()
+int main11()
 {
-	long long int
+	int
 		number,
 		number1 = -1,
 		number2 = 1,
