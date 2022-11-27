@@ -1,7 +1,7 @@
 #include <iostream>
 #include <conio.h>
 using namespace std;
-int main()
+int main11()
 {
 	int comp1[2][2];
 	int comp2[2][2];

@@ -31,7 +31,7 @@ int main12()
 			sum[i][j] = comp1[i][j] * comp2[i][j];
 		}
 	}
-	cout << "sum of matrix 1 and 2 is \n";
+	cout << "product of matrix 1 and 2 is \n";
 	for (int i = 0; i < 2; i++)
 	{
 		for (int j = 0; j < 2; j++)
